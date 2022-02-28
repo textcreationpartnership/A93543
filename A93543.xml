@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Right Honourable, the Lord Marquis of Hartford, read in the House of Commons upon Saturday last: wherin he doth declare his resolution to oppose the Earl of Worster and his army of papists, and to adventure his life for the Protestant religion. Likewise his Majesties command to the Lord Herbert, to apprehend the Marquis of Hartford, and to commit him to safe custody. Together with the desires of the House of Commons to Sir Paul Pinder, with Sir Paul Pinders answer to the same. Also, a great victory obtained by the Manchester forces against the Earl of Derby, where the Earl himselfe and his whole troop were put to flight, and 72. prisoners taken, many of them being commanders.</title>
+            <author>Somerset, William Seymour, Duke of, 1588-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93543</idno>
+            <idno type="STC">Wing S4648</idno>
+            <idno type="STC">Thomason E84_19</idno>
+            <idno type="STC">ESTC R13665</idno>
+            <idno type="EEBO-CITATION">99859516</idno>
+            <idno type="PROQUEST">99859516</idno>
+            <idno type="VID">111602</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93543)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111602)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E84[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Right Honourable, the Lord Marquis of Hartford, read in the House of Commons upon Saturday last: wherin he doth declare his resolution to oppose the Earl of Worster and his army of papists, and to adventure his life for the Protestant religion. Likewise his Majesties command to the Lord Herbert, to apprehend the Marquis of Hartford, and to commit him to safe custody. Together with the desires of the House of Commons to Sir Paul Pinder, with Sir Paul Pinders answer to the same. Also, a great victory obtained by the Manchester forces against the Earl of Derby, where the Earl himselfe and his whole troop were put to flight, and 72. prisoners taken, many of them being commanders.</title>
+                  <author>Somerset, William Seymour, Duke of, 1588-1660.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Jan. 5. Printed for John Feast,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A narrative.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Author's name and place of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Derby, James Stanley, --  Earl of, 1607-1651 --  Early works to 1800.</term>
+               <term>Pyndar, Paul, --  Sir --  Early works to 1800.</term>
+               <term>Worcester, Edward Somerset, --  Marquis of, 1601-1667 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111602:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE Right Honourable, the Lord Marquis of <hi>Hartford,</hi> Read in the Houſe of Commons upon <hi>Sa<g ref="char:EOLhyphen"/>turday</hi> laſt: Wherin he doth declare his Reſolu<g ref="char:EOLhyphen"/>tion to oppoſe the Earl of <hi>Worſter</hi> and his Army of Papiſts, and to adventure his life for the Proteſtant Religion.</p>
+            <p>Likewiſe his Majeſties Command to the Lord <hi>Herbert,</hi> to apprehend the Marquis of <hi>Hart<g ref="char:EOLhyphen"/>ford,</hi> and to commit him to ſafe cuſtody.</p>
+            <p>Together with the Deſires of the Houſe of Commons to Sir <hi>Paul Pinder,</hi> with Sir <hi>Paul Pin<g ref="char:EOLhyphen"/>ders</hi> Anſwer to the ſame.</p>
+            <p>Alſo, a great Victory obtained by the <hi>Mancheſter</hi> Forces againſt the Earl of <hi>Derby,</hi> where the Earl himſelfe and his whole Troop were put to flight, and 72. priſoners taken, many of them being Commanders.</p>
+            <p>
+               <hi>Jan.</hi> 5. Printed for <hi>John Feast.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111602:2"/>
+            <pb facs="tcp:111602:2"/>
+            <head>Joyfull NEWES From the Marquis of HARTFORD Wherein is expreſſed the Declaration of the ſaid Lord Marquis, to oppoſe and reſiſt the Earl of <hi>Worſter,</hi> and his forces, and the reſt of the of the Papiſts in the Kings Army.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N the 31 of <hi>December</hi> laſt, Let<g ref="char:EOLhyphen"/>ters came to the Houſe of Commons, intimating that the Marquis of <hi>Hartford</hi> is reſolved to oppoſe the Kings Army of Papiſts and their Confederates, and hath declared himſelf againſt the E.
+<pb facs="tcp:111602:3"/>of Worſter and his Forces, and refuſeth to joyne with him, by reaſon that his Army conſiſteth for the moſt part of papiſts and diſaffected perſons, which are enemies to the proteſtant Religion, and the peace and happineſſe of this Kingdome, whoſe en<g ref="char:EOLhyphen"/>deavours and actions are for the utter diſ<g ref="char:EOLhyphen"/>ſolving of the Parliament, and Gods true Religion, tending to nothing elſe but to bring in popery and ſuperſtition in this Kingdome.</p>
+            <p>The ſaid Lord Marquis doth further Declare, that by the Commiſſion which he received from his Majeſty he was com<g ref="char:EOLunhyphen"/>manded not to entertain any papiſts, or diſaffected perſons, which are ſuppoſed to this Kingdom.</p>
+            <p>And however his Majeſty is ſiner per<g ref="char:EOLhyphen"/>ſwaded and wrought upon to grant Com<g ref="char:EOLhyphen"/>miſſions for the raiſing of papiſts, and hath appointed a great papiſt to the Ser<g ref="char:EOLhyphen"/>jeant Major Generall of the Earl of Wor<g ref="char:EOLhyphen"/>ſters Army, and in divers other parts of this Kingdome hath alſo put notorious papiſts in great places, through whoſe
+<pb facs="tcp:111602:3"/>actions it is a meanes to bring this Land to ruine and deſolation; unleſſe the Al<g ref="char:EOLhyphen"/>mighty who is the Giver of all Conqueſts be pleaſed to aid and aſſiſt us with His ſtrong power and ſtrength.</p>
+            <p>And therefore for theſe and the afore<g ref="char:EOLhyphen"/>named Reaſons, the Marquis of <hi>Hartford</hi> doth declare, that he is reſolved never to comply with ſuch a Faction, nor be forced to it either by threats or any other per<g ref="char:EOLhyphen"/>ſwaſions whatſoever.</p>
+            <p>And although His Majeſty was pleaſed so Declare his Royall Will and pleaſure againſt the ſaid Lord Marquis to the L. <hi>Herbert,</hi> a great papiſt, and Son to the E. of Worſter, to apprehend the Marquis of <hi>Hartford</hi> for not obeying his Command, yet he is reſolved to oppoſe the Lord <hi>Her<g ref="char:EOLhyphen"/>bert,</hi> and hath ſet down his Reſolution to ſight it out, before he will have any ally<g ref="char:EOLhyphen"/>ance with him, and it is reported, that they have had a great battell, the certainty whereof will appear by the next Poſt.</p>
+            <div type="part">
+               <pb facs="tcp:111602:4"/>
+               <head>The Propoſitions of the houſe of Common to Sir Paul Pinder.</head>
+               <p>THe Houſe of Commons having ſeri<g ref="char:EOLhyphen"/>ouſly debated and conſidered of the Motion lately preſented unto them by Sir <hi>Paul Pinder,</hi> and divers other Gentle<g ref="char:EOLhyphen"/>men, and after ſome conſultation thereup<g ref="char:EOLhyphen"/>on, they ſent a Meſſenger to Sir <hi>Paul Pin<g ref="char:EOLhyphen"/>der,</hi> deſiring him to come to the Houſe, which he did accordingly, where Maſter <hi>Lenthall</hi> Speaker of the ſaid Houſe of Commons acquainted them with the De<g ref="char:EOLhyphen"/>ſires of that Houſe, which were to this ef<g ref="char:EOLhyphen"/>fect, <hi>viz.</hi>
+               </p>
+               <p>That the Army now raiſed for the De<g ref="char:EOLhyphen"/>fence of the Proteſtant Religion were in diſtreſſe for want of moneyes, there being great want of the ſame to maintaine the Army; and therefore the Houſe deſired that the aforenamed Sir Paul Pinder wold lend the Parliament twenty thouſand pounds to be imployed towards the charg of the Army, untill the Propoſitions of both Houſes ſhould be agreed upon be<g ref="char:EOLhyphen"/>tween
+<pb facs="tcp:111602:4"/>His Majeſty and them, that ſo theſe bloudy diſtractions may be brought to a full period.</p>
+            </div>
+            <div type="part">
+               <head>The Anſwer of Sir <hi>Paul Pinder,</hi> to the aforeſaid Deſires.</head>
+               <p>SIr Paul Pinder after ſome conſultation of this buſineſſe, returned Anſwer, that the Houſe would be pleaſed to appoint ſome of their members to treat with him concerning it, hee would give them a ſa<g ref="char:EOLhyphen"/>tisfactory anſwer, wherupon a Committed was appointed to treate with him accor<g ref="char:EOLhyphen"/>dingly.</p>
+               <p>The E. of Warwick ſent a Leteer to the Houſe of Commons, Declaring unto them that he hath ſent 17. chiefe Commanders unto Gravel-end, which were took neere Plymouth, deſiring them that they would take ſome ſpeedy courſe for their ſafe con<g ref="char:EOLhyphen"/>duct to <hi>London.</hi>
+               </p>
+               <p>Whereupon the Houſe ordered that a Company of Muſquetiers ſhould be ſent
+<pb facs="tcp:111602:5"/>down to fetch them from thence and that they ſhould be committed to ſafe cuſtody, upon an accuſation of levying war againſt the King and parliament, which is high Treaſon.</p>
+               <p>The <hi>Mancheſter</hi> Forces have given a great overthrow to the Earl of <hi>Derby,</hi> killing many of his men at <hi>Leigh;</hi> and taking 72 priſoners, divers of them being Com<g ref="char:EOLhyphen"/>manders; and put the Earl of <hi>Derb<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> himſelf, and his whole Troop to flight.</p>
+               <p>Thoſe that ſtand for the Parliament in that part of <hi>Lincolnſhire</hi> near <hi>Newark,</hi> are like to be much indamaged (the Cavaleirs having taken the Town, and ſtrongly fortified the Caſtle) but the Earl of <hi>Lin<g ref="char:EOLhyphen"/>coln,</hi> Sir <hi>Edward Aiſcough,</hi> and Mr. <hi>Gran<g ref="char:EOLhyphen"/>tham,</hi> are there with 1500 men, to defend that County.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
